@@ -12,9 +12,9 @@ I am a 3rd Year undergraduate from <b>HaNoi University of Business and Technolog
 <details open="true">
   <summary>:memo: Github Stats </summary>
   <br />
-  <img align="left" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuanchinh97&show_icons=true&hide_border=true" />
+  <img align="left" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuanchinh97&show_icons=true&hide_border=false" />
 
-  <img align="right" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanchinh97&show_icons=true&hide_border=true" />
+  <img align="right" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanchinh97&show_icons=true&hide_border=false" />
 </details>
 
 
