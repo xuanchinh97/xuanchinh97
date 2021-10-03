@@ -4,9 +4,17 @@ I am a 3rd Year undergraduate from <b>HaNoi University of Business and Technolog
 - 👋 My name Xuan Chinh
 - 🌱 I’m currently learning: Javascript ^^
 - 📣 I'm new to coding so there are a lot of mistakes
+- 🎈 My channel youtube: https://www.youtube.com/giotv97
 - 📫 How to reach me: https://www.facebook.com/chih.97
+
 <br><br>
 
-<img align="left" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuanchinh97&show_icons=true&hide_border=true" />
+<details open="true">
+  <summary>:memo: Github Stats </summary>
+  <br />
+  <img align="left" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuanchinh97&show_icons=true&hide_border=true" />
+
+  <img align="right" alt="xuanchinh97's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xuanchinh97&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true" />
+</details>
 
 
