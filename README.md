@@ -1,8 +1,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, everyone!
 
-I am a 3rd Year undergraduate from <b>HaNoi University of Business and Technology</b>, Hanoi, Vietnam.
+I am a 4rd Year undergraduate from <b>HaNoi University of Business and Technology</b>, Hanoi, Vietnam.
 - 👋 My name Xuan Chinh
-- 🌱 I’m currently learning: Javascript ^^
+- 🌱 I’m currently learning: ReactJS^^
 - 📣 I'm new to coding so there are a lot of mistakes
 - 🎈 My channel youtube: https://www.youtube.com/giotv97
 - 📫 How to reach me: https://www.facebook.com/chih.97
